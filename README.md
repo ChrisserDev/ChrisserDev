@@ -13,6 +13,7 @@ I'm Cristian Serban, a passionate front-end developer with a keen eye for creati
 - JavaScript | TypeScript
 - React.js
 - Version Control (Git)
+- APIs
 
 #### 🤝 Let's Connect!
 
