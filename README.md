@@ -27,9 +27,11 @@ So, that's a bit about my coding journey so far. I'm thrilled about the progress
 
 #### 🤝 Let's Connect!
 
-- 🔗  If you're on the lookout for a front-end developer who loves bringing ideas to life, I'm your guy!
-       Let's connect and create something awesome together.
-       https://www.linkedin.com/in/cristian-serban-ab6606174/
+If you're on the lookout for a front-end developer who loves bringing ideas to life, I'm your guy!
+       
+Let's connect and create something awesome together.
+
+https://www.linkedin.com/in/cristianserban24/
 
 Thanks for stopping by! Happy coding! 🚀
 
