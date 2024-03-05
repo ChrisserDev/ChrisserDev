@@ -4,7 +4,7 @@ I'm Cristian Serban, a front-end developer with a keen eye for creating engaging
 
 #### 🚀 About Me
 
-Hey there👋I delved into the world of coding during my Master's Degree in Audio Engineering back in 2019 where I got my first taste of coding in C++ while working on an audio effect project. Despite creating a cool delay effect that I enjoyed building, I’ve realised that coding might not be my true calling. This awareness dawned upon me when my teacher emphasized the importance of having a strong grasp of complex mathematics in the programming field.
+I delved into the world of coding during my Master's Degree in Audio Engineering back in 2019 where I got my first taste of coding in C++ while working on an audio effect project. Despite creating a cool delay effect that I enjoyed building, I’ve realised that coding might not be my true calling. This awareness dawned upon me when my teacher emphasized the importance of having a strong grasp of complex mathematics in the programming field.
 
 Fast forward two years after finishing my master's, I decided to give coding another shot. I took a free course on learning Python on LinkedIn and thought, "Maybe I'll like this." But, once again, I hit a roadblock with complex math operations when I tried learning Audio Digital Signal Processing in Phyton.
 
