@@ -14,10 +14,24 @@ I'm Cristian Serban, a web developer with a keen eye for creating engaging and u
 - Proficient in building single-page applications using React
 - Experienced in managing state with hooks and context API
 - Skilled in creating reusable components and optimizing performance
-### Version Control
-- Proficient in using Git for version control and collaboration
+
+### Server-Side Languages
+- Proficiency in Node.js, Express.js
+- Understanding of server-side architectures and design patterns
+  
+### Databases
+- Relational databases: MySQL
+- NoSQL databases: MongoDB
+- Query optimization and database design
+
+### API Development
+- RESTful API design principles
+= GraphQL for flexible data querying
+
 ### Web Performance
 - Knowledgeable in optimizing website speed and performance
+- Lazy loading and code splitting techniques
+- Image optimization and modern formats (WebP, AVIF)
 
 #### 🤝 Let's Connect!
 
