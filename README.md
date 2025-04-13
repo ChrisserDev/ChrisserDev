@@ -8,7 +8,8 @@ I'n Cristian Serban, a Full-Stack Web Developer with hands-on experience deliver
 • jQuery	
 • React 	
 • Node.js 	
-• SQL	 • MongoDB	• CMS		
+• SQL	
+• MongoDB	• CMS		
 • Handlebars 
 • DOM	
 • GraphQL	
