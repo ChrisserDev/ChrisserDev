@@ -1,41 +1,30 @@
 Hi there! 👋
 
-I'm Cristian Serban, a web developer with a keen eye for creating engaging and user-friendly web experiences. 💻✨
-
-### HTML & CSS/SAAS
-- Proficient in creating semantic and accessible HTML structures
-- Skilled in responsive web design using CSS flexbox and grid
-- Experienced in implementing CSS animations and transitions
-### JavaScript
-- Competent in ES6+ features and modern JavaScript practices
-- Capable of manipulating the DOM and handling events
-- Familiar with asynchronous programming and API integration
-### React
-- Proficient in building single-page applications using React
-- Experienced in managing state with hooks and context API
-- Skilled in creating reusable components and optimizing performance
-
-### Server-Side Languages
-- Proficiency in Node.js, Express.js
-- Understanding of server-side architectures and design patterns
+### SUMMARY
+I'n Cristian Serban, a Full-Stack Web Developer with hands-on experience delivering clean, high-performance code with a strong focus on technical SEO and polished, responsive UIs using JavaScript, React, and SCSS. Confident across the stack, leveraging REST APIs and GraphQL to build efficient, reliable solutions. I have a strong grasp of CI/CD pipelines particularly with GitHub Actions, to simplify deployment and keep projects running smoothly.
   
-### Databases
-- Relational databases: MySQL
-- NoSQL databases: MongoDB
-- Query optimization and database design
-
-### API Development
-- RESTful API design principles
-= GraphQL for flexible data querying
-
-### Web Performance
-- Knowledgeable in optimizing website speed and performance
-- Lazy loading and code splitting techniques
-- Image optimization and modern formats (WebP, AVIF)
+### SKILLS 
+• HTML	
+• CSS/SAAS	
+• JavaScript	
+• jQuery	
+• React 	
+• Node.js 	
+• SQL	       
+• MongoDB	
+• CMS		
+• Handlebars 
+• DOM	
+• GraphQL	
+• Rest APIs	
+• Figma
+• Git/GitHub  
+• CI/CD	
+• JSON
 
 #### 🤝 Let's Connect!
 
-If you're on the lookout for a web developer who loves bringing ideas to life, I'm your guy!
+If you're on the lookout for a web developer who loves bringing ideas to life, please get in touch!
        
 Let's connect and create something awesome together.
 
