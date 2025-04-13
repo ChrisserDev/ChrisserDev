@@ -19,6 +19,9 @@ I'n Cristian Serban, a Full-Stack Web Developer with hands-on experience deliver
 • Figma
 • Git/GitHub  
 • CI/CD	
+• JSON
+• Adobe XD
+
 
 #### 🤝 Let's Connect!
 
