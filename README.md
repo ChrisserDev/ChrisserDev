@@ -1,4 +1,4 @@
-Hi there! 👋
+#### Hi there! 👋
 
 I’m a Full-Stack Web Developer, currently working with JavaScript, TypeScript, CSS/SASS, React, Node.js, SQL, GraphQL, and GCP. My toolkit also includes Git/GitHub, GithubActions, testing (Playwright), and modern build tools (Webpack).
 
