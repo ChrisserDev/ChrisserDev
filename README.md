@@ -11,8 +11,3 @@ If you’d like to see what I’ve been working on, follow my work log and updat
 https://www.linkedin.com/in/cristianserban24/
 
 Thanks for stopping by! 🚀
-
-<!---
-ChrisserDev/ChrisserDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
