@@ -1,6 +1,6 @@
 #### Hi there! 👋
 
-I’m a Full-Stack Web Developer, currently working with React, TypeScript, Node.js, Express.js, SQL, GraphQL, and GCP. My toolkit also includes Playwright, Jest, Webpack, and Docker to streamline testing, builds, and deployment.
+I’m a Full-Stack Software Developer, currently working with React, TypeScript, Node.js, Express.js, SQL, GraphQL, and GCP. My toolkit also includes Playwright, Jest, Webpack, and Docker to streamline testing, builds, and deployment.
 
 Right now, I’m diving into Next.js and learning how to layer TypeScript more effectively across my projects.
 
