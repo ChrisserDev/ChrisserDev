@@ -1,8 +1,16 @@
 #### Hi there! 👋
 
-I’m a Full-Stack Software Developer, currently working with React, TypeScript, Node.js, Express.js, SQL, GraphQL, and GCP. My toolkit also includes Playwright, Jest, Webpack, and Docker to streamline testing, builds, and deployment.
+👨‍💻 Full Stack Developer with 3+ years of building across modern JavaScript ecosystems. I work mainly with React, TypeScript, Node.js and REST APIs and I’m interested in scalable systems and performance optimisation. Recently shipped a Click & Collect system for the ITS Kit Builder with live stock and near-instant collection times.
 
-If you’d like to see what I’ve been working on, follow my work log on Github and updates on LinkedIn. I share progress, small wins, and experiments as I keep building and learning.
+I care about building clean, scalable products with strong UX and reliable performance, especially features customers genuinely use every day.
+ 
+𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬: JavaScript, TypeScript, React, Next.js, Node.js, Express, GCP, SQL, REST APIs, GraphQL, SCSS, Git, Jest, Playwright, CI/CD, Docker.
+
+𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐢𝐞𝐬: SCRUM, Agile, BDD.
+
+𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬: Full Stack Development, System Design, Performance Optimisation, Microservices, Cloud Engineering, Scalable Systems.
+
+If you’d like to see what I’ve been working on, follow my work log on #Github and updates here on LinkedIn. I share progress and experiments as I keep building and learning.
 
 #### 🤝 Let's Connect!
        
