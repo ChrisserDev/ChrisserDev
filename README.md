@@ -1,3 +1,5 @@
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/3e2ca044-847c-4541-ad97-91e6f72144eb" />
+
 #### Hi there! 👋
 
 👨‍💻 I'm a Full-Stack Engineer with 3+ years of experience in TypeScript, React, Node,js, SQL and Cloud technologies. At ITS, I help maintain a high-traffic e-commerce platform, focusing on scalability, reliability, and performance. I'm interested in software architecture, system design, AI, and Agentic coding.
