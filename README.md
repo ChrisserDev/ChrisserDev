@@ -6,7 +6,8 @@
 
 Interested in software architecture, scalability, AI and Agentic coding.
 
-Core stack:
+#### Core stack:
+
 • 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: JavaScript, TypeScript, React, Next.js, HTML, CSS, SASS, Responsive Design, Accessibility, Web performance, GraphQL, REST API, Performance, Optimization, caching/CDN, Core Web Vitals, lazy loading, Lighthouse, Reusable components, Figma, WCAG
 
 • 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express, REST APIs, GraphQL, Microservices, API Design, REST API design - OpenAPI/Swagger
