@@ -2,7 +2,7 @@
 
 #### Hi there! 👋
 
-👨‍💻Full-Stack Developer with 3+ years of experience in TypeScript, React, Node.js, and Cloud Systems. At ITS, I designed and built the Bulk Pricing system to support enterprise sales and adopted agentic coding and workflows and MCP Integerations within the team to support development and faster delivery.  
+👨‍💻Full-Stack Developer with 3+ years of experience in TypeScript, React, Node.js, and Cloud Systems. At ITS, I designed and built the Bulk Pricing system to support enterprise sales and integrated AI coding tools and MCP servers into the team's workflow, cutting typical delivery time by roughly 30%.
 
 Interested in software architecture, scalability, AI and Agentic coding.
 
