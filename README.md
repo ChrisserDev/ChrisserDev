@@ -12,11 +12,11 @@ Interested in software architecture, scalability, AI and Agentic coding.
 
 • 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js - Express - REST APIs - GraphQL - Microservices - API Design - REST API design - OpenAPI/Swagger
 
-• 𝐃𝐚𝐭𝐚: SQL - MongoDB - SQL Server - NoSQL - ORM
+• 𝐃𝐚𝐭𝐚: SQL - SQL Server - Firestore - MongoDB - NoSQL - ORM
 
-• 𝐂𝐥𝐨𝐮𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬: GCP - Docker - CI/CD - Observability - Deployment - GitHub Actions
+• 𝐂𝐥𝐨𝐮𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬: GCP - Cloud Run Functions - Cloud Tasks - Cloud Storage - Serverless, Event-Driven Architecture - Docker - CI/CD - Observability - Deployment - GitHub Actions - Vercel
 
-• 𝐀𝐈 & 𝐋𝐋𝐌: AI agents - LLM integration - Anthropic Claude - AI-assisted development - Claude Code - Coding Agents - AI Coding - GitHub Copilot - ChatGPT/OpenAI - MCP
+• 𝐀𝐈 & 𝐋𝐋𝐌: AI agents - LLM integration - Anthropic Claude - AI-assisted development - Claude Code - Coding Agents - AI Coding - GitHub Copilot - ChatGPT/OpenAI - Codex - MCP
 
 • 𝐐𝐮𝐚𝐥𝐢𝐭𝐲: E2E testing - Code Review - Automated testing - Unit testing - Jest - Playwright - Integration test - Pair Programming
 
